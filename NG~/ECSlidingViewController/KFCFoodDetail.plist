@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoodPrice</key>
+	<array>
+		<string>8 yuan</string>
+		<string>15 yuan</string>
+		<string>6 yuan</string>
+		<string>5 yuan</string>
+		<string>10 yuan</string>
+	</array>
+	<key>FoodDetail</key>
+	<array>
+		<string>Egg Tart!</string>
+		<string>Delicious! Freash chiken with fruit!</string>
+		<string>Chip is always good! But do not eat much!</string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>FoodImage</key>
+	<array>
+		<string>tart.jpg</string>
+		<string>hambuger.jpg</string>
+		<string>chip.jpeg</string>
+		<string>cokes.jpg</string>
+		<string>wings.jpg</string>
+	</array>
+</dict>
+</plist>

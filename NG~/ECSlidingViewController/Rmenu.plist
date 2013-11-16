@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PizzaHutMenu</key>
+	<array>
+		<string>Pizza</string>
+		<string>Tea</string>
+	</array>
+	<key>COSTAMenu</key>
+	<array>
+		<string>Latte Coffee</string>
+		<string>Cheese Cake</string>
+		<string>Mocha Coffe</string>
+		<string>American Coffe</string>
+	</array>
+	<key>KFCMenu</key>
+	<array>
+		<string>Tart</string>
+		<string>Hambuger</string>
+		<string>Potato Chip</string>
+		<string>Coke</string>
+		<string>Chicken Wing</string>
+	</array>
+	<key>SubwayMenu</key>
+	<array>
+		<string>Cookies</string>
+	</array>
+</dict>
+</plist>
